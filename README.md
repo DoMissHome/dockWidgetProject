@@ -1,0 +1,4 @@
+dockWidgetProject
+=================
+
+DockWidget of Qt
